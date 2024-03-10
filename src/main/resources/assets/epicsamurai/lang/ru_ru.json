@@ -206,7 +206,7 @@
 
   "itemGroup.epicsamurai": "Epic Samurai's",
 
-  "enchantment.epicsamurai.demon_slayer": "Убийца демонов",
+  "enchantment.epicsamurai.returning_blade": "Вратящийся клинок",
 
   "item.epicsamurai.brass_samurai_helmet.tooltip": "GOGGLES",
   "item.epicsamurai.brass_samurai_helmet.tooltip.summary": "Добавляет к HUD _прочую информацию_ о поставленных компонентах.",
@@ -219,4 +219,7 @@
   "info.epicsamurai.mask.ability_2": "§7Иммунитет к §bСлепоте§7.",
   "info.epicsamurai.mask.ability_3": "§7Иммунитет к §bЗамедлению§7."
 
+  
+  "enchantment.epicsamurai.returning_blade.desc": "Кунаи не теряет прочности при использовании."
+  
 }
